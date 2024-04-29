@@ -1,3 +1,17 @@
-# ENERGY-EFFICIENCY-OPTIMIZATION-IN-MANUFACTURING-PROCESSES-EDM-USING-MACHINE-LEARNING
-ENERGY EFFICIENCY &amp; OPTIMIZATION IN  MANUFACTURING PROCESSES USING MACHINE LEARNING//
-This repository includes the overview of the research conducted in the field of energy efficiency optimization using machine learning. Machine learning, with its ability to analyse vast datasets and extract valuable insights, has emerged as a promising tool in this domain. We commence by surveying the current challenges faced in manufacturing, including rising energy costs and the imperative to reduce environmental impact. It underscores the growing need for innovative strategies to optimize energy usage and productivity. The application of machine learning models and algorithms to manufacturing processes is explored, with a particular emphasis on data collection and analysis. The results showcase the capacity of machine learning to predict, adapt, and enhance energy consumption while simultaneously optimizing production processes. The findings affirm that machine learning is a powerful tool to facilitate real-time decision-making and reduce energy wastage in manufacturing.![image](https://github.com/Xlaton25/ENERGY-EFFICIENCY-OPTIMIZATION-IN-MANUFACTURING-PROCESSES-EDM-USING-MACHINE-LEARNING/assets/102571572/fef894ed-0418-4618-b63b-9a18b8e7cfab)
+# ENERGY EFFICIENCY & OPTIMIZATION IN MANUFACTURING PROCESSES USING MACHINE LEARNING
+
+This repository delves into the realm of energy efficiency optimization in manufacturing processes through the lens of machine learning. With its capacity to analyze extensive datasets and unveil valuable insights, machine learning emerges as a beacon of hope in this domain.
+
+## Overview
+
+We embark on this journey by surveying the prevalent challenges encountered in manufacturing, including the surge in energy costs and the pressing need to mitigate environmental impact. This underscores the urgency for innovative strategies to streamline energy consumption and bolster productivity.
+
+## Exploration
+
+The repository navigates through the application of machine learning models and algorithms in manufacturing processes, placing a special emphasis on data collection and analysis. The results obtained underscore the remarkable potential of machine learning in predicting, adapting, and optimizing energy consumption while concurrently enhancing production processes.
+
+## Insights
+
+The findings underscore that machine learning serves as a formidable tool in facilitating real-time decision-making and curbing energy wastage in manufacturing.
+
+![Image](https://github.com/Xlaton25/ENERGY-EFFICIENCY-OPTIMIZATION-IN-MANUFACTURING-PROCESSES-EDM-USING-MACHINE-LEARNING/assets/102571572/fef894ed-0418-4618-b63b-9a18b8e7cfab)
