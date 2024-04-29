@@ -14,4 +14,4 @@ The repository navigates through the application of machine learning models and 
 
 The findings underscore that machine learning serves as a formidable tool in facilitating real-time decision-making and curbing energy wastage in manufacturing.
 
-![Image](https://github.com/Xlaton25/ENERGY-EFFICIENCY-OPTIMIZATION-IN-MANUFACTURING-PROCESSES-EDM-USING-MACHINE-LEARNING/assets/102571572/fef894ed-0418-4618-b63b-9a18b8e7cfab)
+
